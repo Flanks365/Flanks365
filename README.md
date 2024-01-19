@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and scalab
 1. ForkIt
    - Description: A restaraunt searching mobile app created with 3 others
    - Technologies: HTML, JS, CSS, Firebase
-   - [Link to Project]([link/to/project](https://github.com/calvinnleeee/1800_202330_BBY26))
+   - [Link to Project](https://github.com/calvinnleeee/1800_202330_BBY26)
     
 
 2. FlanksFolder
    - Description: A personal Website meant for storage and applications
    - Technologies: React.js, Node.js, HTML, CSS, JS
-   - [Link to Project]([link/to/project](https://github.com/Flanks365/FlanksFolder))
+   - [Link to Project](https://github.com/Flanks365/FlanksFolder)
    
 
 ### Skills
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient and scalab
 
 ### Contact Me
 
-- LinkedIn: [Your LinkedIn Profile]([link/to/linkedin](https://www.linkedin.com/in/bryan-le-89a8b52a8/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bryan-le-89a8b52a8/)
 
 ### Let's Connect!
 
